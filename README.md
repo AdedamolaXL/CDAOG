@@ -13,5 +13,5 @@ In detail the NFT marketplace will:
 7. Create a dashboard to check returns.
 
 
-##Being built using:
+## Being built using:
 Moralis, Truffle, React, Javascript, HTML and CSS
