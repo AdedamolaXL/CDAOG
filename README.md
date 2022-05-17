@@ -11,3 +11,7 @@ In detail the NFT marketplace will:
 5. Create a money-stream to all submitted addresses for automatic payout.
 6. Create automated investment flows .
 7. Create a dashboard to check returns.
+
+
+##Being built using:
+Moralis, Truffle, React, Javascript, HTML and CSS
